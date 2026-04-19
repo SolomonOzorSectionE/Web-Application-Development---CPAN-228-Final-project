@@ -91,7 +91,7 @@ This improves efficiency and allows quick access to important tasks and assignme
 #### Clone the Repository
 
 ```bash
-git clone https://github.com/SolomonOzorSectionE/Web-Application-Development---CPAN-228-Final-project.git
+git clone https://github.com/AshtonPhillips2005/Web-Application-Development---CPAN-228-Final-project.git
 cd Web-Application-Development---CPAN-228-Final-project
 ```
 
