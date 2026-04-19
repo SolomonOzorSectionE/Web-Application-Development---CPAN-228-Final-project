@@ -218,7 +218,6 @@ The entire team contributed to:
 - Improving usability
 - Fixing small code errors collaboratively
 
-The final application reflects strong teamwork, communication, and shared problem-solving.
 
 
 ## Conclusion
