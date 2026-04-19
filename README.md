@@ -198,7 +198,7 @@ README.md
 - Built the login pages and route flow
 - Configured Docker support
 - Created the H2 development profile
-- Produced the main presentation video
+- Produced the first presentation video
 
 ### Karn
 - Built the search functionality
